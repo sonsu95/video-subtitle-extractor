@@ -66,17 +66,5 @@ module.exports = {
       },
     ],
     'lines-between-class-members': ['error', 'always', { exceptAfterSingleLine: true }],
-    'max-len': [
-      'warn',
-      100,
-      2,
-      {
-        ignoreUrls: true,
-        ignoreComments: false,
-        ignoreRegExpLiterals: true,
-        ignoreStrings: true,
-        ignoreTemplateLiterals: true,
-      },
-    ],
   },
 };

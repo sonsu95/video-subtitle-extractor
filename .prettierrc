@@ -1,7 +1,9 @@
 {
-  "printWidth": 100,
-  "singleQuote": true,
   "semi": true,
-  "htmlWhitespaceSensitivity": "ignore"
-  }
+  "singleQuote": true,
+  "tabWidth": 2,
+  "trailingComma": "es5",
+  "arrowParens": "avoid",
+  "endOfLine": "lf"
+}
 
